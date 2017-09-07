@@ -1,0 +1,43 @@
+# ignore the no necssary file example the temp file
+
+# no .a files
+*.a
+
+# no .opensdf files
+*.opensdf
+
+# no .ilk files
+*.ilk
+
+# no .pdb file
+*.pdb
+
+# no .exe file
+*.exe
+
+#no .obj file
+*.obj
+
+# no .pch file
+*.pch
+
+# no log file
+*.log
+
+#no .suo files
+*.suo
+
+# no .idb file
+*.idb
+
+#no .aps files
+*.aps
+
+# no .tlog file
+*.tlog
+
+# ignore the debug drectrcy
+/Debug
+
+# ignore the CreateIdCardNumber/Debug directory
+/CreateIdCardNumber/Debug
