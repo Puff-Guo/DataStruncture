@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\exercises">
+      <UniqueIdentifier>{6c272eac-88ff-4a2f-8a68-f0d4cf563432}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="doublelist.h">
@@ -44,8 +47,13 @@
     <ClCompile Include="TestAllMain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="exercises\onevariablepolynomial.cpp">
+      <Filter>源文件\exercises</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="readme.txt" />
+    <Text Include="exercises\sort.txt" />
+    <Text Include="exercises\Find.txt" />
   </ItemGroup>
 </Project>

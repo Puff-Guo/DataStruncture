@@ -1,6 +1,6 @@
 /*
 *	orderlist.cpp
-*	author:jack
+*	author:puff
 *	date:2017-9-7
 */
 
@@ -226,4 +226,9 @@ void Display_SqList(pSqList L)
 
 		printf("\n");
 	}
+}
+
+void DbSortSqlistAsc(pSqList L)
+{
+	
 }

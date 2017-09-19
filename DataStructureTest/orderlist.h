@@ -51,4 +51,5 @@ void Reverse_SqList(pSqList L);
 //œ‘ æÀ≥–Ú¡–±Ì
 void Display_SqList(pSqList L);
 
+void DbSortSqlistAsc(pSqList L);
 #endif
