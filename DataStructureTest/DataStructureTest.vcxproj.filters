@@ -30,6 +30,12 @@
     <ClInclude Include="cyclelist.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="VecStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="doublelist.cpp">
@@ -49,6 +55,12 @@
     </ClCompile>
     <ClCompile Include="exercises\onevariablepolynomial.cpp">
       <Filter>源文件\exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedStack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VecStack.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
