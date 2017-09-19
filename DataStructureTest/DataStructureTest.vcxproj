@@ -66,16 +66,20 @@
   <ItemGroup>
     <ClInclude Include="cyclelist.h" />
     <ClInclude Include="doublelist.h" />
+    <ClInclude Include="LinkedStack.h" />
     <ClInclude Include="orderlist.h" />
     <ClInclude Include="Singlelist.h" />
+    <ClInclude Include="VecStack.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cyclelist.cpp" />
     <ClCompile Include="doublelist.cpp" />
     <ClCompile Include="exercises\onevariablepolynomial.cpp" />
+    <ClCompile Include="LinkedStack.cpp" />
     <ClCompile Include="orderlist.cpp" />
     <ClCompile Include="singlelist.cpp" />
     <ClCompile Include="TestAllMain.cpp" />
+    <ClCompile Include="VecStack.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="exercises\Find.txt" />
