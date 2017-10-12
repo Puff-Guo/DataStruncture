@@ -15,6 +15,8 @@ pLinkQueue InitQueue(void)
 
 	pLinkQueue Q = (pLinkQueue)malloc(sizeof(LinkQueue));
 	Q->front = Q->rear = Temp;	
+	
+	return Q;
 }
 
 bool EmptyQueue(pLinkQueue Q)

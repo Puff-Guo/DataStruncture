@@ -64,21 +64,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="BinaryTree.h" />
     <ClInclude Include="cyclelist.h" />
     <ClInclude Include="doublelist.h" />
     <ClInclude Include="LinkedStack.h" />
+    <ClInclude Include="LinkQueue.h" />
     <ClInclude Include="orderlist.h" />
+    <ClInclude Include="OrderTree.h" />
     <ClInclude Include="Singlelist.h" />
+    <ClInclude Include="VecQueue.h" />
     <ClInclude Include="VecStack.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BinaryTree.cpp" />
     <ClCompile Include="cyclelist.cpp" />
     <ClCompile Include="doublelist.cpp" />
     <ClCompile Include="exercises\onevariablepolynomial.cpp" />
     <ClCompile Include="LinkedStack.cpp" />
+    <ClCompile Include="LinkQueue.cpp" />
     <ClCompile Include="orderlist.cpp" />
+    <ClCompile Include="OrderTree.cpp" />
     <ClCompile Include="singlelist.cpp" />
     <ClCompile Include="TestAllMain.cpp" />
+    <ClCompile Include="VecQueue.cpp" />
     <ClCompile Include="VecStack.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -36,6 +36,18 @@
     <ClInclude Include="LinkedStack.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="VecQueue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkQueue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OrderTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="doublelist.cpp">
@@ -61,6 +73,18 @@
     </ClCompile>
     <ClCompile Include="VecStack.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VecQueue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkQueue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OrderTree.cpp">
+      <Filter>源文件\exercises</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
